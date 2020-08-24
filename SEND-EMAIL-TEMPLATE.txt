@@ -1,0 +1,18 @@
+Dear {FNAME} {LNAME},
+<br/>
+
+<h3><em>Congratulations,Your now admitted as an officer of HIS,Click on below link to unlock your account and use below password and set your password and don't share it to anyone<em></h3><br/>
+<br/>
+
+<b>Temporary Password :</b> {TEMP-PWD}<br/>
+<br/>
+
+<a href='http://localhost:4200/unlock/{EMAIL}'>
+Click Here To Activate Your Account</a> <br/>
+<br/>
+
+<b>Thanks & Regards</b>,<br/>
+HIS Team.<br/>
+
+<p style= "color:red;">since it was an auto-generated mail,YOU NEED NOT TO REPLY TO THIS MAIL</p>
+<p style= "color:blue;">Thanks for letting us to verify your mail</p>
